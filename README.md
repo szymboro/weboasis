@@ -2,6 +2,7 @@
 ## Fork of weboas.is
 ![GH_Build](https://img.shields.io/github/checks-status/szymboro/weboasis/main)
 ![GH_Size](https://img.shields.io/github/repo-size/szymboro/weboasis)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=szymboro.weboasis)
 <br/>
 Hosted on [vercel.app](https://vercel.app/)
 
